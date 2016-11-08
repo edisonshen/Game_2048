@@ -7,7 +7,7 @@ $(document).ready(function(){
 
 function newgame(){
     //inital the board
-    alert("二伯五扣请开始");
+    alert("please start");
     init();
     //generate two random number from 2 to 8196
     generateNumber();
